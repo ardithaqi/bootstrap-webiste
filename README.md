@@ -1,2 +1,1 @@
-"# bootstrap-webiste" 
-echo "# bootstrap-webiste" 
+a website that uses mainly html and a little bit of css!
